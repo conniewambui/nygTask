@@ -1,0 +1,30 @@
+
+*{
+	 box-sizing: border-box;
+}
+body{
+	background-color: #1C2833;
+	color: #F4F6F7 ;
+	min-width: 100vh;
+	background-size:
+
+}
+
+h2{
+	margin:30px;
+	text-transform: capitalize; 
+    border: 5px dashed;
+    text-align : center;
+    padding: 6px;
+
+}
+p{
+	font-size: 18px;
+	font-kerning: 4px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 10px;
+}
+.center{
+  margin: auto;
+  width: 100%;
+}
